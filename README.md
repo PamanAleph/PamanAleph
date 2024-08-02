@@ -65,8 +65,8 @@ Feel free to reach out if you want to collaborate on any project or just want to
 Thank you for visiting my GitHub profile! Have a great day! 😄
 
 <p align="center">
-  <img src="https://3dicons.surge.sh/3d-icon/technology-icon/smartphone--2022-svgrepo-com.svg" width="80">
-  <img src="https://3dicons.surge.sh/3d-icon/technology-icon/laptop--2022-svgrepo-com.svg" width="80">
-  <img src="https://3dicons.surge.sh/3d-icon/technology-icon/server--2022-svgrepo-com.svg" width="80">
-  <img src="https://3dicons.surge.sh/3d-icon/technology-icon/database--2022-svgrepo-com.svg" width="80">
+  <img src="https://user-images.githubusercontent.com/57530523/127291849-d1f317a8-4467-4af7-a654-29f3c42dfb86.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/57530523/127292085-61666d1b-88c7-4f82-9539-5c9a9e4c0b3f.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/57530523/127292203-6f491347-b3f2-40c1-9511-3a6594a39307.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/57530523/127292310-1a59d279-7d7e-4e74-930f-e8d74b19b10b.gif" width="80">
 </p>
