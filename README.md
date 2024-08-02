@@ -64,9 +64,15 @@ Feel free to reach out if you want to collaborate on any project or just want to
 
 Thank you for visiting my GitHub profile! Have a great day! 😄
 
+<!-- Add more animations and professional effects -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57530523/127291849-d1f317a8-4467-4af7-a654-29f3c42dfb86.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/57530523/127292085-61666d1b-88c7-4f82-9539-5c9a9e4c0b3f.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/57530523/127292203-6f491347-b3f2-40c1-9511-3a6594a39307.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/57530523/127292310-1a59d279-7d7e-4e74-930f-e8d74b19b10b.gif" width="80">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+my+profile!;Have+a+great+day!&center=true&size=25&width=800&height=50&duration=4000&color=00FF00">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="100">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JpKVyT9kGR8Eg/giphy.gif" width="100">
 </p>
