@@ -1,20 +1,9 @@
 ## Hi there 👋
 
-Introduction
-Welcome to my GitHub profile I am PamanAleph, a passionate developer with a strong background in software development. This README.md provides an overview of my projects, skills, and contact information.
+Welcome to my GitHub profile! I am a passionate software developer with a strong background in various programming languages and technologies. I love building efficient and scalable applications, and I am always eager to learn and explore new tech trends.
 
-
-<!--
-**PamanAleph/PamanAleph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools
+Languages: Python, JavaScript, TypeScript, Java, C++, PHP
+Frameworks & Libraries: React, Node.js, Next.js, TailwindCSS
+Databases: MySQL
+Version Control: Git, GitHub
