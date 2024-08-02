@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Introduction
+Welcome to my GitHub profile I am PamanAleph, a passionate developer with a strong background in software development. This README.md provides an overview of my projects, skills, and contact information.
+
+
 <!--
 **PamanAleph/PamanAleph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
