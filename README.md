@@ -30,9 +30,6 @@
 
 ## 🌱 What I’m Currently Learning
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1AGSW2Y3UVMLG/giphy.gif" width="100">
-</p>
 
 I am constantly expanding my skill set. Currently, I am diving deeper into:
 
@@ -57,22 +54,4 @@ I am constantly expanding my skill set. Currently, I am diving deeper into:
 ## 🤝 Let's Connect!
 
 Feel free to reach out if you want to collaborate on any project or just want to have a tech talk. I'm always open to new ideas and opportunities.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCUr3e4dU12s2Gs/giphy.gif" width="100">
-</p>
-
 Thank you for visiting my GitHub profile! Have a great day! 😄
-
-<!-- Add more animations and professional effects -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+my+profile!;Have+a+great+day!&center=true&size=25&width=800&height=50&duration=4000&color=00FF00">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="100">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JpKVyT9kGR8Eg/giphy.gif" width="100">
-</p>
