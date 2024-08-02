@@ -63,3 +63,10 @@ Feel free to reach out if you want to collaborate on any project or just want to
 </p>
 
 Thank you for visiting my GitHub profile! Have a great day! 😄
+
+<p align="center">
+  <img src="https://3dicons.surge.sh/3d-icon/technology-icon/smartphone--2022-svgrepo-com.svg" width="80">
+  <img src="https://3dicons.surge.sh/3d-icon/technology-icon/laptop--2022-svgrepo-com.svg" width="80">
+  <img src="https://3dicons.surge.sh/3d-icon/technology-icon/server--2022-svgrepo-com.svg" width="80">
+  <img src="https://3dicons.surge.sh/3d-icon/technology-icon/database--2022-svgrepo-com.svg" width="80">
+</p>
